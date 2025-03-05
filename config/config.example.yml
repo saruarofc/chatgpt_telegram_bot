@@ -1,5 +1,5 @@
-telegram_token: ""
-openai_api_key: ""
+telegram_token: "7631155869:AAFcDoMmf9707E-Bd3kVzbLA1Pbd5Uhmt-E"
+openai_api_key: "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"
 openai_api_base: null  # leave null to use default api base or you can put your own base url here
 allowed_telegram_usernames: []  # if empty, the bot is available to anyone. pass a username string to allow it and/or user ids as positive integers and/or channel ids as negative integers
 new_dialog_timeout: 600  # new dialog starts after timeout (in seconds)
